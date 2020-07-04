@@ -1,0 +1,48 @@
+.menu {
+	float: right;
+	list-style: none;
+}
+
+.pc /*Chicken, Beef and Sushi*/ {
+	text-align: center;
+	font-size: 40px;
+	margin: 0px;
+	font-family: 'Arial';
+}
+
+.pc2 /*Lorem ipsum*/ {
+	font-size: 20px;
+	margin-left: 10px;
+	font-family: 'Arial';
+}
+
+/*
+.row {
+	width: 100%;
+}
+
+/
+@media (min-width: 992px)  DESKTOP SCREEN  {
+	.lg1, .lg2, .lg3 {
+		width: 33%;
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) TABLET SCREEN {
+	.lg1 {
+		width: 48%;
+	}
+	.lg2 {
+		width: 48%;
+	}
+	.lg3 {
+		width: 96%;
+	}
+}
+
+@media (max-width: 767px) MOBILE SCREEN  {
+	.lg1, .lg2, .lg3 {
+		width: 99%;
+	}
+} */ 
